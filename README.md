@@ -1,5 +1,3 @@
-# meals
-
 # Meals - Recipe Discovery & Management App
 
 A modern Flutter application for discovering, organizing, and managing meal recipes. Built with clean architecture principles and state management best practices, Meals offers an intuitive interface for food enthusiasts to explore recipes, save favorites, and apply dietary filters.

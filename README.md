@@ -182,14 +182,14 @@ We welcome contributions! Please follow these guidelines:
 
 ## Future Enhancements
 
-- **🌐 Remote API Integration** - Connect to recipe databases
-- **🔍 Search Functionality** - Search recipes by name or ingredients
-- **📊 Meal Planning** - Weekly meal planning features
-- **🛒 Shopping Lists** - Generate shopping lists from recipes
-- **👥 Social Features** - Share recipes and meal plans
-- **📈 Analytics** - Track cooking habits and preferences
+- **Remote API Integration** - Connect to recipe databases
+- **Search Functionality** - Search recipes by name or ingredients
+- **Meal Planning** - Weekly meal planning features
+- **Shopping Lists** - Generate shopping lists from recipes
+- **Social Features** - Share recipes and meal plans
+- **Analytics** - Track cooking habits and preferences
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 

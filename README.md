@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # meals
 
 # Meals - Recipe Discovery & Management App

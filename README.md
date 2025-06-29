@@ -1,19 +1,19 @@
-# 🍽️ Meals - Recipe Discovery & Management App
+# Meals - Recipe Discovery & Management App
 
 A modern Flutter application for discovering, organizing, and managing meal recipes. Built with clean architecture principles and state management best practices, Meals offers an intuitive interface for food enthusiasts to explore recipes, save favorites, and apply dietary filters.
 
 ## Key Features
 
-- **📱 Categorized Recipe Discovery** - Browse meals by categories (Italian, Asian, Quick & Easy, etc.)
-- **⭐ Favorites Management** - Save and organize your favorite recipes with one tap
-- **🔍 Advanced Filtering** - Filter recipes by dietary preferences (Gluten-free, Vegan, Vegetarian, Lactose-free)
-- **📋 Detailed Recipe Views** - Complete ingredient lists and step-by-step cooking instructions
-- **🎨 Modern UI/UX** - Material Design 3 with smooth animations and transitions
-- **📱 Responsive Design** - Optimized for various screen sizes and orientations
-- **⚡ Offline Support** - Access recipes without internet connectivity
-- **🌙 Dark Theme** - Beautiful dark mode interface
+- **Categorized Recipe Discovery** - Browse meals by categories (Italian, Asian, Quick & Easy, etc.)
+- **Favorites Management** - Save and organize your favorite recipes with one tap
+- **Advanced Filtering** - Filter recipes by dietary preferences (Gluten-free, Vegan, Vegetarian, Lactose-free)
+- **Detailed Recipe Views** - Complete ingredient lists and step-by-step cooking instructions
+- **Modern UI/UX** - Material Design 3 with smooth animations and transitions
+- **Responsive Design** - Optimized for various screen sizes and orientations
+- **Offline Support** - Access recipes without internet connectivity
+- **Dark Theme** - Beautiful dark mode interface
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Framework:** Flutter 3.x
 - **Language:** Dart
@@ -23,7 +23,7 @@ A modern Flutter application for discovering, organizing, and managing meal reci
 - **Architecture:** Provider Pattern with Clean Architecture principles
 - **Navigation:** Flutter Navigator 2.0
 
-## 🏗Project Architecture
+## Project Architecture
 
 ```
 lib/

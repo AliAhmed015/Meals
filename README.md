@@ -72,8 +72,8 @@ The app follows a **layered architecture** with clear separation of concerns:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/meals-app.git
-   cd meals-app
+   git clone https://github.com/AliAhmed015/Meals.git
+   cd Meals
    ```
 
 2. **Install dependencies**

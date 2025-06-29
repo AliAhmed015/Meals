@@ -134,8 +134,8 @@ We welcome contributions! Please follow these guidelines:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/meals-app.git
-   cd meals-app
+   git https://github.com/AliAhmed015/Meals.git
+   cd Meals
    ```
 
 2. **Create a feature branch**
